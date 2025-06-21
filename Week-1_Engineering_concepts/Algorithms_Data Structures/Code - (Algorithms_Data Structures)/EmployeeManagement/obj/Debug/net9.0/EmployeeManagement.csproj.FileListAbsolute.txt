@@ -1,0 +1,15 @@
+C:\Users\KIIT\Documents\dotnet\EmployeeManagement\bin\Debug\net9.0\EmployeeManagement.exe
+C:\Users\KIIT\Documents\dotnet\EmployeeManagement\bin\Debug\net9.0\EmployeeManagement.deps.json
+C:\Users\KIIT\Documents\dotnet\EmployeeManagement\bin\Debug\net9.0\EmployeeManagement.runtimeconfig.json
+C:\Users\KIIT\Documents\dotnet\EmployeeManagement\bin\Debug\net9.0\EmployeeManagement.dll
+C:\Users\KIIT\Documents\dotnet\EmployeeManagement\bin\Debug\net9.0\EmployeeManagement.pdb
+C:\Users\KIIT\Documents\dotnet\EmployeeManagement\obj\Debug\net9.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Documents\dotnet\EmployeeManagement\obj\Debug\net9.0\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\KIIT\Documents\dotnet\EmployeeManagement\obj\Debug\net9.0\EmployeeManagement.AssemblyInfo.cs
+C:\Users\KIIT\Documents\dotnet\EmployeeManagement\obj\Debug\net9.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Documents\dotnet\EmployeeManagement\obj\Debug\net9.0\EmployeeManagement.sourcelink.json
+C:\Users\KIIT\Documents\dotnet\EmployeeManagement\obj\Debug\net9.0\EmployeeManagement.dll
+C:\Users\KIIT\Documents\dotnet\EmployeeManagement\obj\Debug\net9.0\refint\EmployeeManagement.dll
+C:\Users\KIIT\Documents\dotnet\EmployeeManagement\obj\Debug\net9.0\EmployeeManagement.pdb
+C:\Users\KIIT\Documents\dotnet\EmployeeManagement\obj\Debug\net9.0\EmployeeManagement.genruntimeconfig.cache
+C:\Users\KIIT\Documents\dotnet\EmployeeManagement\obj\Debug\net9.0\ref\EmployeeManagement.dll
