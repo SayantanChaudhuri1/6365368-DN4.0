@@ -40,7 +40,8 @@ namespace KafkaProducerAppUI
         }
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-            // Do nothing, or you can leave it empty
+            // empty
+
         }
 
 
