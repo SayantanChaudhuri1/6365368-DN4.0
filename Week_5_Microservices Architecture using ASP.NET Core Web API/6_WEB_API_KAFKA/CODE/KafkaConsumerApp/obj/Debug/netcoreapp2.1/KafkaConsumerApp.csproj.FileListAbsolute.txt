@@ -1,0 +1,5 @@
+C:\Users\KIIT\source\repos\KafkaConsumerApp\obj\Debug\netcoreapp2.1\KafkaConsumerApp.csproj.AssemblyReference.cache
+C:\Users\KIIT\source\repos\KafkaConsumerApp\obj\Debug\netcoreapp2.1\KafkaConsumerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\source\repos\KafkaConsumerApp\obj\Debug\netcoreapp2.1\KafkaConsumerApp.AssemblyInfoInputs.cache
+C:\Users\KIIT\source\repos\KafkaConsumerApp\obj\Debug\netcoreapp2.1\KafkaConsumerApp.AssemblyInfo.cs
+C:\Users\KIIT\source\repos\KafkaConsumerApp\obj\Debug\netcoreapp2.1\KafkaConsumerApp.csproj.CoreCompileInputs.cache
