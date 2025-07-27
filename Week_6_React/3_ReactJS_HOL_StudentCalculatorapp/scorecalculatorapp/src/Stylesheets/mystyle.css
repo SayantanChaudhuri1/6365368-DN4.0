@@ -1,0 +1,46 @@
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+h1 {
+  color: brown;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.blue {
+  color: blue;
+}
+
+.skyblue {
+  color: #5DADE2;
+}
+
+.red {
+  color: red;
+}
+
+.pink {
+  color: deeppink;
+}
+
+.purple {
+  color: purple;
+}
+
+.gray {
+  color: gray;
+}
+
+.green {
+  color: green;
+}
+
+.greenlight {
+  color: #28B463;
+}
